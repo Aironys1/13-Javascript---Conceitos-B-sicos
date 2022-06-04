@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: aquamarine;
+
+
+}
+
+.container input,
+label {
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    border: 0;
+    outline: 0;
+    border-radius: 20px;
+    width: 500px;
+}
+
+label {
+    font-weight: bold;
+    color: #333;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    border-radius: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    padding:10px;
+
+}

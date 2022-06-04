@@ -1,0 +1,93 @@
+h1,h2{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.container{
+    border: 3px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    padding:10px;
+}
+
+
+button{
+    cursor: pointer;
+    border: 0;
+    padding:10px;
+    border-radius:10px;
+    font-size:18px;
+    font-weight:bold;
+    
+}
+
+
+
+.azul{
+    background-color:blue;
+    color: aliceblue;
+}
+
+.verde{
+    background-color: rgb(8, 114, 17);
+    color: aliceblue;
+}
+.vermelho{
+    background-color: red;
+    color: aliceblue;
+}
+
+#telefone{
+    display:none;
+    text-decoration: none;
+    font-weight: bold;
+    font-size:20px;
+    color: rgb(13, 141, 120);
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+
+
+a{
+    display: none;
+    text-decoration: none;
+    font-weight: bold;
+    font-size:20px;
+    color: rgb(13, 141, 120);
+    text-align: center;
+    padding: 20px;
+}
+div{
+    margin:50px;
+}
+
+.logo{
+    display: none;
+   
+}
+
+.logo img{
+    border-radius:50%;
+    display: block;
+    margin: auto;
+    border: 5px solid rgb(3, 77, 3);
+}
+
+
+
+.paginaAzul{
+    background-color:blue;
+    color: aliceblue;
+}
+
+.paginaVerde{
+    background-color: rgb(8, 114, 17);
+    color: aliceblue;
+}
+.paginaVermelho{
+    background-color: red;
+    color: aliceblue;
+}
